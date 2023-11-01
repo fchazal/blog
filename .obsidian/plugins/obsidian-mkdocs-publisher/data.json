@@ -48,7 +48,7 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
       "wiki": false,
       "slugify": false
@@ -76,7 +76,11 @@
     },
     "noticeError": false,
     "displayModalRepoEditing": false,
-    "migrated": true
+    "migrated": true,
+    "shareAll": {
+      "enable": true,
+      "excludedFileName": "DRAFT"
+    }
   },
-  "tabsID": "github-configuration"
+  "tabsID": "plugin-settings"
 }

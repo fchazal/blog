@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94f9cf7347cc4ff7",
+            "id": "feaf6624e3e4a4b5",
             "type": "leaf",
             "state": {
-              "type": "big-calendar",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/my-first-post.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -53,14 +58,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "435c30548df1612d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "96531802af220812",
             "type": "leaf",
             "state": {
@@ -68,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,13 +73,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "big-calendar:Big Calendar": false,
-      "chronology:Open Chronology": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "94f9cf7347cc4ff7",
+  "active": "dfe3f2f91a30643c",
   "lastOpenFiles": [
+    "archetypes/default.md",
+    "content/posts/my-first-post.md",
     "themes/ananke/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.json",
     "themes/ananke/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.content",
     "themes/ananke/resources/_gen/assets/css/ananke/css",
@@ -94,7 +90,6 @@
     "themes/ananke/layouts/partials/func/socials/GetServiceData.html",
     "themes/ananke/layouts/partials/func/socials/GetRegisteredServices.html",
     "themes/ananke/layouts/partials/func/socials/GetBuiltInServicesDefaults.html",
-    "themes/ananke/layouts/partials/func/socials/Get.html",
     "themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "themes/ananke/exampleSite/content/fr/post/_index.md",
     "themes/ananke/exampleSite/content/en/post/chapter-6.md",
@@ -123,8 +118,6 @@
     "themes/ananke/README.md",
     "themes/ananke/LICENSE.md",
     "themes/ananke/CHANGELOG.md",
-    "content/posts/my-first-post.md",
-    "archetypes/default.md",
     "quickstart/themes/ananke/exampleSite/content/fr/post/chapter-1.md",
     "quickstart/themes/ananke/exampleSite/content/fr/post/_index.md",
     "quickstart/themes/ananke/exampleSite/content/en/post/chapter-6.md",
