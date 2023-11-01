@@ -1,5 +1,8 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+title: "Ananke: Un thème pour Hugo"
+
+description: "Le dernier thème dont vous aurez besoin. Peut-être"
+cascade:
+  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Exemple de liste d'article français.
+Bienvenue sur mon blog à propos de mon travail du moment. Je travaille sur une idée de livre. Vous pouvez lire quelques chapitres plus bas.
