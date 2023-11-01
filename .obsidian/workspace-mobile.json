@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "bf9ec445c2a6e1ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "aebd9646a4be0b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c7265627c2a6eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ef0f46687e94fb4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d8cf7b5123b866bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "f8dd267b91787db0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a136ee01662178c5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f87d02eb17fd8e2b",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "big-calendar:Big Calendar": false,
+      "chronology:Open Chronology": false
+    }
+  },
+  "active": "b7c7265627c2a6eb",
+  "lastOpenFiles": [
+    "quickstart/public/index.xml",
+    "quickstart/hugo.toml",
+    "quickstart/archetypes/default.md",
+    "quickstart/themes/ananke",
+    "quickstart/resources/_gen",
+    "quickstart/i18n",
+    "quickstart/layouts",
+    "quickstart/archetypes",
+    "quickstart/public/categories",
+    "quickstart/public/tags",
+    "quickstart/public/ananke",
+    "quickstart/public/images",
+    "2023-11-01.md",
+    "quotes/2012-05-24.md",
+    "2023-11-00.md",
+    "_assets_/archives/2007-2012.md",
+    "posts/2008-01-07 | Enveloppe diaphane.md",
+    "_assets_/archives/2012-2015.md",
+    "posts/2007-10-19 | Mes amitiés à Toli.md",
+    "posts/2008-08-31 | Le manque.md",
+    "posts/2009-03-20 | Rappel.md",
+    "posts/2010-01-08 | Le Choc.md",
+    "posts/2008-12-11 | L'amour chagrin.md",
+    "posts/2009-07-02 | Au vent.md",
+    "posts/2007-11-09 | Amitié.md",
+    "posts/2009-01-14 | Guérison.md",
+    "posts/2010-03-12 | Dizziness.md",
+    "posts/2007-11-18 | Tempus fugit.md",
+    "posts/2009-12-08 | Bourrasque.md",
+    "posts/2007-11-07 | Aqua Erotica.md",
+    "posts/2008-03-07 | Quand les maux se taisent.md",
+    "posts/2009-03-03 | L'arche.md",
+    "posts/2007-11-30 | Brouillard matinal.md",
+    "posts/2007-10-16 | L'amitié.md",
+    "posts/2008-01-10 | Dire et finir.md",
+    "posts/2007-09-14 | Pavarotti.md"
+  ]
+}

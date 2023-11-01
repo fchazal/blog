@@ -1,0 +1,11 @@
+{
+  "accentColor": "#2a68cb",
+  "cssTheme": "Border",
+  "interfaceFontFamily": "Muli",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 13,
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "monospaceFontFamily": "JetBrains Mono",
+  "theme": "obsidian"
+}
